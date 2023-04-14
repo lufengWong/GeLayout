@@ -1,4 +1,4 @@
 # GeLayout
-Automated building layout using deep learning and graph algorithms
-The building layout dataset and the developed code for automated building layout will be made available later.
+Automated building layout using deep learning and graph algorithms.<br>
+The building layout dataset and the developed code for automated building layout will be made available later.<br>
 If you urgently need the database, please contact <wanglufeng@cqu.edu.cn>
