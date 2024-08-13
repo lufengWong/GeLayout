@@ -1,6 +1,6 @@
 # GeLayout
-## Automated building layout using deep learning and graph algorithms https://doi.org/10.1016/j.autcon.2023.105036
-
+## Automated building layout using deep learning and graph algorithms
+https://doi.org/10.1016/j.autcon.2023.105036.
 
 The code for the paper is here https://github.com/lufengWong/SingleBuilding_unet_graph.
 
